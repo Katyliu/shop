@@ -1,2 +1,2 @@
 <?php
-echo "¹þ¹þ¹þ";
+echo "I have a dream";
